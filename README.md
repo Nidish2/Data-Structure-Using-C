@@ -6,7 +6,7 @@ This repo is curated for:
 - Engineering students (BE/B.Tech – CSE/IT)
 - Placement preparation
 - Lab work, mini-projects
-- Deep understanding of **low-level DS logic**
+- Deep understanding of **Implementation and Application of DS logic**
 
 ---
 
